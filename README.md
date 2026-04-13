@@ -7,10 +7,13 @@ The analysis combines interactive visualizations and data storytelling to highli
 ---
 
 ## Interactive visualizations
+Explore the interactive animations below to see how female participation in STEM evolves over time across countries. 
 
-[Open the interactive map animation](stem_map_animation.html)
+[Open the interactive map animation](https://val-lilu.github.io/women-in-STEM-data-storytelling/outputs/stem_map_animation.html)
+![Global animated map preview](outputs/stem_map_animation.png)
 
-[Open the interactive line animation](stem_line_animation.html)
+[Open the interactive line animation](https://val-lilu.github.io/women-in-STEM-data-storytelling/outputs/stem_line_animation.html)
+![Animated line chart preview](outputs/stem_line_animation.png)
 
 ## Project goal
 
