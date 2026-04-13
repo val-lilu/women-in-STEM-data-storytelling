@@ -1,4 +1,4 @@
-# Women in STEM: A Data Storytelling Project
+# Women in STEM: A Data Storytelling Project with Animated Visualizations
 
 This project explores how the share of women graduating in STEM fields has evolved across countries over time.
 
