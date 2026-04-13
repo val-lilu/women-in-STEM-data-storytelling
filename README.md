@@ -6,6 +6,12 @@ The analysis combines interactive visualizations and data storytelling to highli
 
 ---
 
+## Interactive visualizations
+
+[Open the interactive map animation](stem_map_animation.html)
+
+[Open the interactive line animation](stem_line_animation.html)
+
 ## Project goal
 
 The objective of this project is to examine patterns in female representation among STEM graduates and to compare how these patterns differ across countries.
