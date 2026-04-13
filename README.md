@@ -46,15 +46,6 @@ In this notebook, the variable `female_stem_share` represents:
 
 ---
 
-[Open the interactive map animation](stem_map_animation.html)
-
-### Focused animated line chart
-![Line animation preview](images/line_animation_preview.gif)
-
-[Open the interactive line animation](stem_line_animation.html)
-
----
-
 ## Analysis and key insights
 
 ### Data limitations
